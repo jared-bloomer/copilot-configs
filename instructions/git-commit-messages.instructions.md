@@ -18,6 +18,7 @@ To Create clean, short, and desciptive git commit messages
 - Use Conventional Commits for all commit messages. See https://www.conventionalcommits.org/ for detailed information.
 - Use proper case and punctuation
 - Limit the line length of messages to 72 characters
+- Commit messages should be 1 line only. Do NOT add a body or footer (i.e. extended messages).
 
 ### Extended Commit Message
 - What is in the commit and it's expected outcome
