@@ -22,3 +22,6 @@ To keep the workspace clean and Tidy
 - DO Not create "extended" files when an existing file for that functionality exists
 - Archive old projects and files that are no longer in use but may be needed later
 - Use version control effectively to manage changes and keep the workspace organized
+
+---
+_Maintaining a clean workspace enhances productivity and reduces clutter, making it easier to focus on important tasks._
